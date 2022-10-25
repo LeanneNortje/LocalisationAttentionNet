@@ -1,4 +1,4 @@
-# Using DAVENet trained on sampled contrastive pairs to do VPKL
+# Using LocalisationAttentionNet to do VPKL
 
 This repository includes the code used to implement the DAVEnet experiments in the paper: [TOWARDS VISUALLY PROMPTED KEYWORD LOCALISATION FOR ZERO-RESOURCE SPOKEN LANGUAGES](https://arxiv.org/pdf/2210.06229.pdf). 
 
